@@ -8,7 +8,7 @@
 # Este programa lee y reformatea datos electorales para facilitar su análisis.
 # Las cifras y metadatos de las distintas elecciones y referendos españoles se
 # pueden descargar de la página web de información electoral del Ministerio del Interior:
-# https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
+# https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/
 # 
 # Victor Chamosa Pino
 #
